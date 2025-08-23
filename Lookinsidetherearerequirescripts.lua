@@ -9,3 +9,4 @@ Controls: R,E,Q,Z, Tp X,M,H,G,F,Y,T,E
     fun one
     some sounds are missing
     and btw when u switch to another glitcher dont be scaried of the sound!:)
+  because its loud
